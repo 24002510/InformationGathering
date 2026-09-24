@@ -1,10 +1,7 @@
-# InformationGathering
+[# InformationGathering
 Information Gathering Techiques
 
 # To perform information gathering techniques
-
-### NAME: HAFEEZUL DEEN S
-### REG. NO: 212223220028
 
 # AIM:
 
@@ -100,3 +97,4 @@ sudo traceroute  www.facebook.com
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
+](https://github.com/24002510/Echoserver/blob/main/README.md)
